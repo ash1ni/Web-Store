@@ -1,8 +1,5 @@
-# How To Build A Decentralized Ecommerce Platform with React and Solidtiy
 
-Read the full tutorial here: [**>> How To Build A Decentralized Ecommerce Platform with React and Solidtiy**](https://daltonic.github.io)
-
-This example shows How To Build A Decentralized Ecommerce Platform with React and Solidtiy:
+ Build A Decentralized Ecommerce Platform with React and Solidtiy:
 
 ![Add New Product](./screenshots/0.gif)
 <center><figcaption>Add New Product</figcaption></center>
